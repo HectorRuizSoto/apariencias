@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="E:/Users/Hector/Escritorio/gongoradigital/Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2017-10-23T15:43:24+02:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>La gran pastoral de Arcadia</title><editor>Héctor Ruiz Soto</editor></titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne</publisher>
+        <date when="2017">2017</date>
+        <availability status="restricted"/>
+        <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
+          >http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>BR, II-463, f. 0r - f. 15v</bibl></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident="es"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Comedia intitulada la gran pastoral de Arcadia, BR, mss 463, f. 0r-15v</head>
+      <div>
+        <head>Double apariencia avec déguisement et fantôme</head>
+        <p>Belianira, travestie par son père, se déguise en fantôme dans la grotte sacrée des mânes pour apparaître face à lui et apprendre de sa bouche la raison de son travestissement. Son père, après avoir fait son sacrifice avec l’aide du jeune Fausto, lui raconte qu’il a hérité des biens d’Arsenio, riche berger d’Arcadie, grâce à ce travestissement.</p>
+        <pb n="f. 4v"/>
+        <sp><speaker>Belianira</speaker>
+        <lg>    <l>Vuelve, Saucino, vuelve a la majada</l>
+        <l>que tu hija Belianira, a darte gusto</l>
+        <l>y encubrirse será por mí forzada,</l>
+        <l>no obstante que en engaño es caso injusto.</l>
+        <l>De lo que ha de venir no digo nada,</l>
+        <l>podrían ser sucesos sin disgusto,</l>
+        <l>mas porque cumpliré lo prometido</l>
+        <pb n="f. 5r"/>
+        <l>en su forma fantástica he salido.</l></lg>
+        <lg>    <l>Y para más señal que te asegure</l>
+        <l>de que tu Belianira, de su parte,</l>
+        <l>aunque del mundo todo se procure,</l>
+        <l>ella se encubrirá por contentarte,</l>
+        <stage rend="center">Aquí se desatapa el rostro y se le torna a tapar</stage>
+        <l>contempla en mí su proprio rostro y dure</l>
+        <l>en sosiego tu pecho sin turbarte,</l>
+        <l>que bien sucederá. Y adiós, que me entro,</l>
+        <l>Saucino, a mi quieto y hondo centro.</l></lg>
+        <stage rend="center">Éntrase Belianira y echan fuego</stage>
+        </sp><sp><speaker>Saucino</speaker>
+        <lg>    <l>Belianira, ¿es otro engaño?</l>
+        <l>¿Fuiste Belinaira o sombra?</l>
+        <l>¿Sombra fuiste? Pues me asombra</l>
+        <l>tan incierto desengaño.</l>
+        </lg><lg>    <l>Seguir tengo sus pisadas</l>
+        <l>para ver si me ha burlado,</l>
+        <l>mas no, que el lugar sagrado</l>
+        <l>lo impide con llamaradas.</l></lg>
+        <stage rend="center">Entra Fausto</stage>
+        </sp><sp><speaker>Fausto</speaker>
+        <lg part="I">    <l part="I">Saucino.</l></lg>
+        </sp><sp><speaker>Saucino</speaker>
+        <lg part="F"><l>Los pies son buenos,</l>
+        <l>pues de suerte me hallarás</l>
+        <l>que cuando preguntes más</l>
+        <l>te pueda responder menos</l></lg>
+        </sp><sp><speaker>Fausto</speaker>
+        <lg part="I">    <l>Fuego, aceite, miel y leche</l>
+        <l>vuelvo, bien puedes andar.</l></lg>
+        <stage rend="center">Vanse y sale Belianira de la cueva</stage>
+        </sp><sp><speaker>Belianira</speaker>
+        <lg part="F"><l>Si me pensáis alcanzar</l>
+        <l>haré que no os aproveche</l>
+        </lg><lg>    <l>que mis pies son tan ligeros</l>
+        <l>que os ganarán el atajo</l>
+        <l>y antes que lleguéis abajo</l>
+        <l>estos serán los primeros.</l></lg>
+        <stage rend="center">Asómase una verdadera sombra de Arsenio en la cueva y dice</stage>
+        </sp><sp><speaker>Sombra</speaker>
+        <lg>    <l>Espera, ¿dónde corres, burladora?</l>
+        <l>¿dabas la fiesta ansí por acabada?</l>
+        <l>Pues probarás a tu pesar agora</l>
+        <l>nuevo rigor, sin vida libertada,</l>
+        <l>que la suerte a sus muertos vengadora</l>
+        <l>de religión tan poca hoy afrentada,</l>
+        <l>tu mucha libertad y el osar tanto</l>
+        <l>trocará en sujeción de amor y espanto</l></lg>
+        <stage rend="center">Éntrase la sombra</stage>
+        </sp><sp><speaker>Belianira</speaker>
+        <lg>    <l>Borrará arrepentimiento</l>
+        <l>tu áspera profecía</l>
+        <l>y pues no falta osadía,</l>
+        <l>sobren las alas al viento.</l></lg></sp></div></body></text></TEI>
