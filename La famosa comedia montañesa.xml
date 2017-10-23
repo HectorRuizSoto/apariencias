@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../gongoradigital/Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2017-10-23T14:05:40+02:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La famosa comedia montañesa</title>
+        <author>Lope de Vega</author>
+        <editor>Héctor Ruiz Soto</editor>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne</publisher>
+        <date when="2017">2017</date>
+        <availability status="restricted"/>
+        <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"
+          >http://creativecommons.org/licenses/by-nc-nd/3.0/fr/</licence>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>BR, II-463, f. 43r - f. 66v</bibl>
+        <bibl>BNE, MSS/17366</bibl>
+        <bibl>Lope de Vega, <hi rend="i">Comedias de Lope de Vega. Parte I</hi>, vol. 3, <hi rend="i">La amistad pagada</hi>, ed. Victoria Pineda, p. 1397-1545</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>La famosa comedia montañesa de Lope de Vega</head>
+      <div>
+        <head>Apariencia d'Apollon pour un sacrifice</head>
+        <p>Lelio et Andrenio, consuls romains en guerre en Hispanie, sont tous les deux amoureux de Claudia, la captive de Furio, un soldat de leur armée. Alors que Lelio est allé à León pour ordonner la guerre, Andronio réussir à obtenir Claudia de Furio après une série de dons et contredons qui impliquent Curieno, le chef des espagnols, qui reconnaît en Furio un grand soldat, se liant d’amitié avec lui. À son retour, Lelio est jaloux de son rival Andrenio et il ordonne au prêtre d’Apollon, Mario, de faire mourir Claudia comme une nouvelle Iphigénie, afin qu’elle n’amène pas la guerre entre les deux consuls. Curieno, en dette d’amitié envers Furio, tente entretemps de la sauver. Andrenio se voit forcé de livrer Claudia au sacrifice, et s’appuie sur son second Domicio pour supporter sa peine. Je transcris l'édition de Victoria Pineda.</p>
+          <pb n="1510"/>
+        <sp who="Mario"><speaker>Mario</speaker>
+        <lg part="F"><l>Ya, cónsules, me parece</l>
+        <l>que se descubra el altar.</l></lg>
+        </sp><sp who="Domicio"><speaker>Domicio</speaker>
+        <lg>    <l>Andronio, ah, señor, esfuerza;</l>
+        <l>que hagas aqueso no es justo</l>
+        <l>porque jamás te dio gusto</l>
+        <l>ni rogada ni por fuerza.</l>
+        </lg><lg part="I">    <l>Mira que el tiempo es aqueste</l>
+        <l>en que muestres ser romano.</l></lg>
+        </sp><sp who="Lelio"><speaker>Lelio</speaker>
+        <lg part="F"><l>Mario, apercibe la mano</l>
+        <l>y el fuego y ara se apreste,</l></lg>
+        <stage rend="center">Descúbrese un altar con Apolo</stage>
+        <lg part="I">    <l>que ya corren la cortina</l></lg>
+        </sp><sp who="Mario"><speaker>Mario</speaker>
+        <lg part="F"><l>¿Oh, rubio y délfico Apolo,</l>
+        <l>inventor único y solo</l>
+        <l>de música y medecina!</l>
+        </lg><lg>    <l>Aquí la esclava que mandas,</l>
+        <l>por tu oráculo famoso,</l>
+        <l>que sosiegue el sedicioso</l>
+        <l>pueblo dividido en bandas,</l>
+          <pb n="1511"/>
+        </lg><lg part="I">    <l>humilde te presentamos</l>
+        <l>y esta sangre te ofrecemos.</l></lg>
+        </sp><sp><speaker>Domicio<note place="bottom">À Andronio.</note></speaker>
+        <lg part="F"><l>Si has de hacer esos estremos</l>
+        <l>del sacrificio nos vamos.</l></lg>
+        </sp><sp who="Mario"><speaker>Mario</speaker>
+        <lg part="I">    <l>Humíllate, Claudia, al suelo</l>
+        <l>que ya apercibo el cuchillo.</l></lg>
+        </sp><sp who="Claudia"><speaker>Claudia</speaker>
+        <lg part="F"><l>Ya, Mario, al suelo me humillo</l>
+        <l>para levantarme al cielo.</l>
+        </lg><lg>    <l>Furio, esta sangre vertida,</l>
+        <l>más por ti que por Apolo,</l>
+        <l>yo la consagro a ti solo</l>
+        <l>como a dueño de mi vida</l>
+        </lg><lg>    <l>y pues ya tu engaño sé</l>
+        <l>y quién eres me declaras,</l>
+        <l>más que su altar y sus aras</l>
+        <l>manche tu alma y tu fe.</l>
+        </lg><lg>    <l>No tengo por qué quejarme</l>
+        <l>de que tu esclava me hiciste;</l>
+        <l>de que después me vendiste</l>
+        <l>puedo, ingrato, lastimarme,</l>
+        </lg><lg>    <l>pues me dijiste algún hora</l>
+        <l>—que yo más contenta estaba—:</l>
+        <l>“Ya, Claudia, no eres esclava,</l>
+        <l>sino mi propia señora.”</l>
+        </lg><lg part="I">    <l>Pero, ¿qué estoy alargando</l>
+        <l>mi vida? ¡Oh, Mario, haz tu oficio!</l></lg>
+        </sp><sp who="Mario"><speaker>Mario</speaker>
+        <lg part="F"><l>Ya el cuchillo al sacrificio</l>
+        <l>voy, cónsules, aplicando;</l>
+        </lg><lg part="I">    <l>vendarle quiero los ojos.</l></lg>
+        </sp><sp who="Andronio"><speaker>Andronio</speaker>
+        <lg part="F"><l>Ya se cubre el sol del cielo,</l>
+        <l>y mi alma, y todo el suelo,</l>
+        <l>de noche eterna de enojos.</l>
+        <pb n="1512"/>
+        </lg><lg>    <l>Oh, sol, que te pones ya,</l>
+        <l>haz que yo te pueda ver</l>
+        <l>donde vas a amanecer;</l>
+        <l>o lleva mi alma allá.</l></lg>
+        </sp><sp who="Mario"><speaker>Mario</speaker>
+        <lg>    <l>Ya los ojos le cubrí;</l>
+        <l>reciba Apolo el servicio</l>
+        <l>si hubiere en el sacrificio</l>
+        <l>falta en vosotros o en mí.</l></lg>
+        <stage rend="center">Al alzar del cuchillo digan de dentro y él pare la mano</stage>
+        </sp><sp who="Dentro"><speaker>Dentro</speaker>
+        <lg part="I">    <l>Arma, arma, guerra, guerra, ¿qué descuido</l>
+        <l>es éste vuestro, míseros romanos?</l>
+        <l>Que el montañés saquea, roba y mata,</l>
+        <l>destruye, atala y rompe vuestro ejército.</l>
+        <l>¡Arma, arma, guerra, guerra, arma, arma!</l></lg>
+        </sp><sp who="Andronio"><speaker>Andronio</speaker>
+          <lg part="M"><l>Romanos, gran descuido hemos tenido:</l>
+        <l>perdido es nuestro ejército, romanos.</l>
+        <l>Suspende, Mario, el sacrificio en tanto</l>
+        <l>que vamos a poner algún remedio.</l></lg>
+        </sp><sp who="Lelio"><speaker>Lelio</speaker>
+          <lg part="M"><l>Para matar la víctima ¿qué importa?,</l>
+        <l>que mejor venceremos si ella muere.</l></lg>
+        </sp><sp who="Dentro"><speaker>Dentro</speaker>
+          <lg part="M"><l part="I">¡Arma, arma, guerra, guerra!</l></lg>
+        </sp><sp who="Andronio"><speaker>Andronio</speaker>
+          <lg part="M"><l part="F">El que es romano</l>
+        <l>siga esta espada que defiende a Roma,</l>
+        <l>y el que se queda, llámese cobarde.</l></lg>
+        <stage rend="center">Vase</stage>
+        </sp><sp who="Mario"><speaker>Mario</speaker>
+          <lg part="M"><l>Ve, Lelio, a remediar lo que se ofrece,</l>
+        <l part="I">que aquí te aguardo.</l></lg>
+          <pb n="1513"/>
+        </sp><sp who="Lelio"><speaker>Lelio</speaker>
+          <lg part="M"><l part="F">Pues aquí me aguarda,</l>
+        <l>que dándonos Apolo esta victoria</l>
+        <l>mejor le ofreceremos esta víctima.</l></lg>
+        <stage rend="center">Vase Lelio y los demás y quedan Mario y Claudia</stage>
+        </sp><sp who="Mario"><speaker>Mario</speaker>
+          <lg part="F"><l>Ya puedes, Claudia, alzarte de la tierra,</l>
+        <l>que aún no es llegado de tu muerte el día.</l></lg></sp>
+      </div>
+    </body>
+  </text>
+</TEI>
